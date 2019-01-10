@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: Uso de función print
+  inspection: Calls
+- binding: "*"
+  inspection: Except:DiscardsExceptions
