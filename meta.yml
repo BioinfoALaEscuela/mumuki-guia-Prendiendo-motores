@@ -6,12 +6,4 @@ beta: false
 teacher_info: nada
 language: python
 id_format: "%05d"
-order:
-- 2
-- 3
-- 4
-- 5
-- 6
-- 7
-- 8
-- 9
+order: []
