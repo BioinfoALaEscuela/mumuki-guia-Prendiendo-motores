@@ -3,7 +3,7 @@ name: Prendiendo motores
 locale: es
 type: learning
 beta: false
-teacher_info: nada
+teacher_info: ''
 language: python
 id_format: "%05d"
 order: []
