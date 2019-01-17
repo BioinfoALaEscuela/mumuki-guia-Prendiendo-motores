@@ -1,7 +1,6 @@
 ---
 tags: []
-layout: :input_bottom
-editor: 0
+layout: input_bottom
 type: reading
 extra_visible: false
 manual_evaluation: false
